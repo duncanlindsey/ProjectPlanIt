@@ -1,2 +1,2 @@
 # Project PlanIt
-An application that enables users to build plans based on temporal and spatial constraints and invite others to join them.
+An application to help friends integrate events and plans into their own and each others calendars.
